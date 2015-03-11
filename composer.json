@@ -1,5 +1,5 @@
 {
-    "name": "testabit/restgeneratorbundle",
+    "name": "terwey/restgeneratorbundle",
     "description": "REST API Generator for Symfony 2",
     "type": "symfony-bundle",
     "license": "MIT",
